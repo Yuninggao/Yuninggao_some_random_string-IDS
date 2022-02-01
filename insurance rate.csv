@@ -1,0 +1,17 @@
+﻿1,GEICO,4.7,,,
+2,GEICO,8.3,,,
+3,GEICO,9.3,,,
+4,Progressive,7.4,,,
+5,Progressive,6.7,,,
+6,Progressive,8.9,,,
+7,USAA,3.8,,,
+8,USAA,6.3,,,
+9,USAA,8.1,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,provider,min rating,max rating,mean rating,sum rating
+,GEICO,4.7,9.3,7.433333333,22.3
+,Progressive,6.7,8.9,7.666666667,23
+,USAA,3.8,8.1,6.066666667,18.2
